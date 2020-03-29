@@ -1,0 +1,4 @@
+employee_code;name;lastname;address;age;start_date;salary;position;department
+200;jose;rivas;guayacan;23;12jun2020;20000000;asesor;ventas
+200;jose;rivas;guayacan;23;12jun2020;20000000;asesor;ventas
+207;jose;rodas;tucan;23;19jun2020;20000000;asesor;ventas
