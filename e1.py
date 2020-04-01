@@ -21,6 +21,7 @@ attributes:
 ○ the department what they belong.
 ● Add some tests to validate this functionality.
 """
+from copy import deepcopy
 
 class Person(object):
     
@@ -37,7 +38,9 @@ class Person(object):
         return f'{self._name} {self._lastname}'
     
     def without_age(self):
-        pass
+        new_person = deepcopy(self)
+        delattr(new_person, 'age')
+        return new_person
 
     def json_repr(self):
         return {

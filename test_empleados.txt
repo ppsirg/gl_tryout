@@ -1,0 +1,10 @@
+employee_code;name;lastname;address;age;start_date;salary;position;department
+200;jose;rivas;guayacan;23;12jun2020;20000000;asesor;ventas
+207;jose;rodas;tucan;23;19jun2020;20000000;asesor;ventas
+200;jose;rivas;guayacan;23;12jun2020;20000000;asesor;ventas
+201;jose;riquelme;guayacan;23;12jun2020;500;asesor;ventas
+202;jose;moreno;guayacan;23;12jun2020;100;asesor;ventas
+203;jose;rivaldo;guayacan;23;12jun2020;400;asesor;ventas
+204;jose;garcia;guayacan;23;12jun2020;300;asesor;ventas
+205;jose;pino;guayacan;23;12jun2020;200;asesor;ventas
+206;jose;rosales;guayacan;23;12jun2020;100;asesor;ventas
